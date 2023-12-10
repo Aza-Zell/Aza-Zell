@@ -13,7 +13,6 @@ I am passionate about coding and skilled in database management. I enjoy solving
 - [Oracle Cloud Infrastructure 2023 AI Certified Foundations Associate](certification_link_1)
 - [Oracle Cloud Data Management 2023 Certified Foundations Associate](certification_link_2)
 - [Oracle Cloud Infrastructure 2023 Certified Foundations Associate](certification_link_3)
-- [SQL and Relational Databases 101](certification_link_4)
 
 ## Skills 💻
 
