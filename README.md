@@ -24,7 +24,7 @@ I am passionate about coding and skilled in database management. I enjoy solving
 ## Contact Me 📫
 
 - LinkedIn: [LinkedIn Profile](linkedin_profile_link)
-- Email: juandelacruz@gmail.com
+- Email: apollyon.azrael@gmail.com
 
 Feel free to reach out! I'm always open to connecting and discussing tech or collaboration opportunities.
 
