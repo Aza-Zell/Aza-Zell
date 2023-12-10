@@ -23,7 +23,7 @@ I am passionate about coding and skilled in database management. I enjoy solving
 
 ## Contact Me 📫
 
-- LinkedIn: [LinkedIn Profile](linkedin_profile_link)
+- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/lufred-louie-adag-bb14292a3/)
 - Email: apollyon.azrael@gmail.com
 
 Feel free to reach out! I'm always open to connecting and discussing tech or collaboration opportunities.
